@@ -14,7 +14,9 @@ package own.fedorov.engine.view
 	import own.fedorov.engine.model.MainModel;
 	import own.fedorov.engine.values.LayoutsData;
 	import own.fedorov.engine.view.components.Layout;
-	
+	/*
+	That place to control the view (Layout) changes
+	*/
 	public class LayoutMediator extends Mediator
 	{
 		public function LayoutMediator()
